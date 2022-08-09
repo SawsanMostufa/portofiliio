@@ -1,0 +1,9 @@
+.sec_head{
+    background-image: url('../../../public/1.png');
+    height: 350px;
+    background-position: center;
+}
+.text_header{
+    padding: 20px;
+    color: white;
+}
